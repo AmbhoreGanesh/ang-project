@@ -2,18 +2,27 @@
   "posts": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "name": "KFC",
+      "email": "kf@gmail.com",
+      "address": "GM road"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "name": "Dominos",
+      "email": "domi@gmail.com",
+      "address": "FC road"
+    },
+    {
+      "id": 3,
+      "name": "BurgerKing",
+      "email": "bking@gmail.com",
+      "address": "JM road"
+    },
+    {
+      "name": "Haldiram",
+      "email": "hd@gmail.com",
+      "address": "Karve Road",
+      "id": 4
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
